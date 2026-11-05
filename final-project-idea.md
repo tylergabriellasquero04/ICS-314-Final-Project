@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
-date: 2016-11-05
+date: 2026-11-05
 published: true
 labels:
   - JavaScript
