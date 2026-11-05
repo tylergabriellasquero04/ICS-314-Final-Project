@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: "Final Project Idea"
-date: 11-04-2026
+date: 11-05-2026
 published: true
 labels:
   - JavaScript
