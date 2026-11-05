@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
-date: 2026-11-05
+date: 2016-11-05
 published: true
 labels:
   - JavaScript
@@ -11,6 +11,11 @@ labels:
 ---
 
 # Final Project Ideas
+
+**Contributors**
+- Ethan Batin (ebatin@hawaii.edu)
+- Tyler Gabriel Lasquero (tgal@hawaii.edu)
+- Raphael Rios (raphael4@hawaii.edu)
 
 ## UH Manoa Forums (#1)
 
