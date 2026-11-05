@@ -10,7 +10,16 @@ labels:
   - nextJS
 ---
 
-## Final Project Ideas: UH Manoa Forums 
+## Final Project Idea: UH Manoa Forums 
+
+## Proposers
+Ethan Batin ([ebatin@hawaii.edu](url))
+
+Tyler Gabriel Lasquero ([tgal@hawaii.edu](url))
+
+Raphael Rio ([raphael4@hawaii.edu](url))
+
+## Problem + Solution
 
 **Main problem:** Students and faculty often email the school about problems, but students do not know whether the school is aware of them. The school does not really have an open forum for the people on campus. 
 
